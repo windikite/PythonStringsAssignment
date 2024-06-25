@@ -1,0 +1,3 @@
+My 7th assignment! The product review assignment's shorten task had me going in one direction splitting the string into a list of the characters, then going character by character and popping if it wasn't desired. However, I ended up going back and coming up with a much simpler method to shorten a string into the desired length without cutting off any words or ending on an unwanted character that would make it look weird. 
+
+Checking the name input was probably the easiest of the tasks, while the others within the product review were moderate compared to the shortening task. 
